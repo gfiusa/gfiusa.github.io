@@ -32,7 +32,7 @@ latest_posts:
   }
 
   /* Center the caption under the photo */
-  .profile .more-info { text-align: center; font-family: inherit;}
+  .profile .more-info { text-align: center; }
 </style>
 
 <div style="text-align: justify; hyphens: auto;" markdown="1">
@@ -41,6 +41,6 @@ I am a PhD candidate in physics at the [University of Rochester](https://www.pas
 
 Previously, I did my master's and my bachelor's at the [University of São Paulo](https://www2.ifsc.usp.br/english/), working with [Prof. Diogo O. Soares-Pinto](https://scholar.google.com/citations?hl=en&user=J8nZnJgAAAAJ).
 
-My research is driven by two questions. What are the fundamental limits of thermodynamics at small scales, and when do quantum effects change the rules? And what can we learn about the thermodynamics of a system when we can only observe part of it?
+I am curious about what are the fundamental limits of thermodynamics at small scales, and when do quantum effects change the rules? And what can we learn about the thermodynamics of a system when we can only observe part of it?
 
 </div>
