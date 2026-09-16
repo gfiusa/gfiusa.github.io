@@ -41,6 +41,8 @@ I am a PhD candidate in physics at the [University of Rochester](https://www.pas
 
 Previously, I did my master's and my bachelor's at the [University of São Paulo](https://www2.ifsc.usp.br/english/), working with [Prof. Diogo O. Soares-Pinto](https://scholar.google.com/citations?hl=en&user=J8nZnJgAAAAJ).
 
-I am curious about what are the fundamental limits of thermodynamics at small scales, when do quantum effects change the rules, and what can we learn about the thermodynamics of a system when we can only observe part of it.
+I am curious about the fundamental limits of thermodynamics at small scales, when quantum effects change the rules, and what we can learn about the thermodynamics of a system when we can only observe part of it.
+
+Please check out my [research](/research/), and feel free to [get in touch](/contact/). For random personal things, see [here](/personal/).
 
 </div>
