@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p><em>With the man who started it all</em></p>
+    <p style="font-size: 0.8em; text-align: center; margin-top: 0.3em;"><em>With the man who started it all</em></p>
 selected_papers: false
 social: false
 
@@ -20,8 +20,11 @@ latest_posts:
   enabled: false
 ---
 
-Hello there! I am a PhD candidate in physics at the [University of Rochester](https://www.pas.rochester.edu/), working under the supervision of [Prof. Gabriel Landi](https://scholar.google.com/citations?hl=en&user=zdtouBUAAAAJ). My research is driven by two questions. What are the fundamental limits of thermodynamics at small scales, and when do quantum effects change the rules? And what can we learn about the thermodynamics of a system when we can only observe part of it?
+<div style="text-align: justify; hyphens: auto;" markdown="1">
 
-On the first front, I study bounds such as thermodynamic uncertainty relations, how they are reshaped in open quantum systems under continuous measurement and feedback, and how to describe processes where classical and quantum features coexist. On the second, I use stochastic excursions and full counting statistics to infer hidden quantities like entropy production directly from measured trajectories, including experimental data from quantum dots.
+I am a PhD candidate in physics at the [University of Rochester](https://www.pas.rochester.edu/), working under the supervision of [Prof. Gabriel Landi](https://scholar.google.com/citations?hl=en&user=zdtouBUAAAAJ). 
 
-Stochastic and quantum thermodynamics often tackle the same questions with different languages. Looking ahead, I want to build methods that carry insights between the two communities and into the lab.
+Previously, I did my master's and my bachelor's at the [University of São Paulo](https://www2.ifsc.usp.br/english/), working with [Prof. Diogo O. Soares-Pinto](https://scholar.google.com/citations?hl=en&user=J8nZnJgAAAAJ).
+
+My research is driven by two questions. What are the fundamental limits of thermodynamics at small scales, and when do quantum effects change the rules? And what can we learn about the thermodynamics of a system when we can only observe part of it?
+</div>
