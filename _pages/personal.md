@@ -25,7 +25,7 @@ nav_order: 3
 
 <div class="personal-photo">
   <img src="/assets/img/tatui-museum.jpg" alt="Museu Histórico Paulo Setúbal in Tatuí">
-  <p class="personal-caption"><em>This is the background picture in the first slide of all my presentations, if you know you know</em></p>
+  <p class="personal-caption"><em>Background picture in the first slide of all my presentations, if you know you know</em></p>
 </div>
 
 My hometown is [Tatuí](https://en.wikipedia.org/wiki/Tatu%C3%AD), a small city in the countryside of [São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)) known as the "Capital of Music." The title comes largely from the [Conservatório de Tatuí](https://visitetatui.com.br/atrativos-turisticos/conservatorio-dramatico-e-musical-dr-carlos-de-campos/), one of the most respected music schools in Latin America.
@@ -39,8 +39,8 @@ One of my favorite places in the city is the [Museu Histórico Paulo Setúbal](h
 ## Music
 
 <div class="personal-photo">
-  <img src="/assets/img/piano.jpg" alt="With my personal hero">
-  <p class="personal-caption"><em>With my personal hero</em></p>
+  <img src="/assets/img/piano.jpg" alt="With Chopin's bust in Warsaw, summer 2025">
+  <p class="personal-caption"><em>Me looking at Chopin's bust in Warsaw, summer 2025</em></p>
 </div>
 
 Music is my number one hobby. I play the piano, and my favorite composer is [Chopin](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin). Fortunately, I had the chance to watch live in [Warsaw](https://en.wikipedia.org/wiki/Warsaw) the [19th Chopin Piano Competition](https://www.chopincompetition.pl/en) and to visit his [museum](https://en.wikipedia.org/wiki/Fryderyk_Chopin_Museum). 
@@ -58,7 +58,7 @@ I spend a lot of my time in Rochester at the [Eastman School of Music](https://w
 
 <div class="personal-photo">
   <img src="/assets/img/football.jpg" alt="Botafogo-PB">
-  <p class="personal-caption"><em>Your caption here</em></p>
+  <p class="personal-caption"><em>XI de Agosto roster for the 1980 season</em></p>
 </div>
 
 Like most Brazilians, I grew up with [football](https://en.wikipedia.org/wiki/Association_football). My local team is [Clube XI de Agosto](https://pt.wikipedia.org/wiki/XI_de_Agosto). I collect jerseys, so if you have any (especially unusual ones) that you would like to donate, please [contact me](/contact/).
@@ -66,3 +66,7 @@ Like most Brazilians, I grew up with [football](https://en.wikipedia.org/wiki/As
 I believe in [Joga Bonito](https://en.wikipedia.org/wiki/The_beautiful_game) and that Brazilian football will eventually recover the level it once was. I support [Fernando Diniz](https://en.wikipedia.org/wiki/Fernando_Diniz)'s ideas about team strategy, and I do not like [Carlo Ancelotti](https://en.wikipedia.org/wiki/Carlo_Ancelotti) as the head coach of the [amarelinha](https://en.wikipedia.org/wiki/Brazil_national_football_team).
 
 </div>
+
+<p style="text-align: center; font-size: 0.85em; opacity: 0.7; margin-top: 3rem;">
+  "About this site: (Almost) all content by me, all code by vibe" &mdash; <a href="https://pedroharunari.github.io/miscellanea/" target="_blank" rel="noopener">Harunari, Pedro E.</a>
+</p>
