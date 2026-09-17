@@ -7,9 +7,9 @@ subtitle: "<a href='https://scholar.google.com/citations?user=ROd8gfwAAAAJ' targ
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
-    <p style="font-size: 0.8em; text-align: center; margin-top: 0.3em;"><em>With the man who started it all</em></p>
+    <p style="font-size: 0.8em; text-align: center; margin-top: 0.3em;"><em>With the [man](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) who started it all</em></p>
 selected_papers: false
 social: false
 
@@ -43,6 +43,6 @@ Previously, I did my master's and my bachelor's at the [University of São Paulo
 
 I am curious about the fundamental limits of thermodynamics at small scales, when quantum effects change the rules, and what we can learn about the thermodynamics of a system when we can only observe part of it.
 
-Please check out my [research](/research/), and feel free to [get in touch](/contact/). For random personal things, see [here](/personal/).
+Check out my [research](/research/), and feel free to [get in touch](/contact/). For random personal things, see [here](/personal/).
 
 </div>
