@@ -63,7 +63,7 @@ I spend a lot of my time in Rochester at the [Eastman School of Music](https://w
 
 Like most Brazilians, I grew up with [football](https://en.wikipedia.org/wiki/Association_football). My local team is [Clube XI de Agosto](https://pt.wikipedia.org/wiki/XI_de_Agosto). I collect jerseys, so if you have any (especially unusual ones) that you would like to donate, please [contact me](/contact/).
 
-I believe in [Joga Bonito](https://en.wikipedia.org/wiki/The_beautiful_game) and that Brazilian football will eventually recover the level it once had. I support [Fernando Diniz](https://en.wikipedia.org/wiki/Fernando_Diniz)'s ideas about team strategy and positioning, and I unsure about [Carlo Ancelotti](https://en.wikipedia.org/wiki/Carlo_Ancelotti) as the head coach of the [amarelinha](https://en.wikipedia.org/wiki/Brazil_national_football_team).
+I believe in [Joga Bonito](https://en.wikipedia.org/wiki/The_beautiful_game) and that Brazilian football will eventually recover the level it once had. I support [Fernando Diniz](https://en.wikipedia.org/wiki/Fernando_Diniz)'s ideas about team strategy and positioning, and I am unsure about [Carlo Ancelotti](https://en.wikipedia.org/wiki/Carlo_Ancelotti) as the head coach of the [amarelinha](https://en.wikipedia.org/wiki/Brazil_national_football_team).
 
 </div>
 
