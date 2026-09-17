@@ -31,8 +31,8 @@ latest_posts:
     .profile { margin-top: 0.35rem; }
   }
 
-  /* Center the caption under the photo */
-  .profile .more-info { text-align: center; }
+  /* Center the caption under the photo and match the site font */
+  .profile .more-info { text-align: center; font-family: inherit; }
 </style>
 
 <div style="text-align: justify; hyphens: auto;" markdown="1">
