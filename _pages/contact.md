@@ -33,6 +33,6 @@ You can also send me an email:
 
 <p class="social-row" style="margin-left: 1.5rem;">
   <a href="https://www.instagram.com/cristiano/" target="_blank" rel="noopener" title="Instagram"><i class="fa-brands fa-instagram fa-fw social-icon"></i></a>
-  <a href="YOUR_SPOTIFY_LINK" target="_blank" rel="noopener" title="Spotify"><i class="fa-brands fa-spotify fa-fw social-icon"></i></a>
+  <a href="https://open.spotify.com/user/mzerg?si=2fb3266f121d4e9c" target="_blank" rel="noopener" title="Spotify"><i class="fa-brands fa-spotify fa-fw social-icon"></i></a>
   <a href="https://x.com/Pontifex" target="_blank" rel="noopener" title="X"><i class="fa-brands fa-x-twitter fa-fw social-icon"></i></a>
 </p>

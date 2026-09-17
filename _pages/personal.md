@@ -25,7 +25,7 @@ nav_order: 3
 
 <div class="personal-photo">
   <img src="/assets/img/tatui-museum.jpg" alt="Museu Histórico Paulo Setúbal in Tatuí">
-  <p class="personal-caption"><em>Museu Histórico Paulo Setúbal</em></p>
+  <p class="personal-caption"><em>This is the background picture in the first slide of all my presentations, if you know you know</em></p>
 </div>
 
 My hometown is [Tatuí](https://en.wikipedia.org/wiki/Tatu%C3%AD), a small city in the countryside of São Paulo known as the "Capital of Music." The title comes largely from the [Conservatório de Tatuí](https://visitetatui.com.br/atrativos-turisticos/conservatorio-dramatico-e-musical-dr-carlos-de-campos/), one of the most respected music schools in Latin America.
