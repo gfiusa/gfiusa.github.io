@@ -30,7 +30,7 @@ nav_order: 3
 
 My hometown is [Tatuí](https://en.wikipedia.org/wiki/Tatu%C3%AD), a small city in the countryside of São Paulo known as the "Capital of Music." The title comes largely from the [Conservatório de Tatuí](https://visitetatui.com.br/atrativos-turisticos/conservatorio-dramatico-e-musical-dr-carlos-de-campos/), one of the most respected music schools in Latin America.
 
-One of my favorite places in the city is the [Museu Histórico Paulo Setúbal](https://visitetatui.com.br/atrativos-turisticos/museu-historico-paulo-setubal-de-tatui/). Its building, from 1920, was first designed as the town jail and later became the courthouse. Today it tells the story of the city and is named after Paulo Setúbal, a writer from Tatuí who became a member of the Brazilian Academy of Letters. WRITE A FEW WORDS ABOUT WHAT THE MUSEUM MEANS TO YOU.
+One of my favorite places in the city is the [Museu Histórico Paulo Setúbal](https://visitetatui.com.br/atrativos-turisticos/museu-historico-paulo-setubal-de-tatui/). Its building, from 1920, was first designed as the town jail and later became the courthouse. Today it tells the story of the city and is named after Paulo Setúbal, a writer from Tatuí who became a member of the Brazilian Academy of Letters. 
 
 </div>
 
@@ -38,9 +38,17 @@ One of my favorite places in the city is the [Museu Histórico Paulo Setúbal](h
 
 ## Music
 
-Music is my number one hobby. I play the piano, and lately most of my free time goes to Liszt, Chopin, and Schumann. WRITE ABOUT YOUR PIANO JOURNEY: WHEN YOU STARTED, YOUR LESSONS, A PIECE YOU ARE PROUD OF.
+<div class="personal-photo">
+  <img src="/assets/img/piano.jpg" alt="With my personal hero">
+  <p class="personal-caption"><em>Your caption here</em></p>
+</div>
 
-<p class="icon-link"><i class="fa-brands fa-spotify"></i><a href="YOUR_SPOTIFY_LINK" target="_blank" rel="noopener">My Spotify</a></p>
+Music is my number one hobby. I play the piano, and my favorite composer is [Chopin](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin). Fortunately, I had the chance to watch live in [Warsaw](https://en.wikipedia.org/wiki/Warsaw) the [19th Chopin Piano Competition](https://www.chopincompetition.pl/en) and to visit his [museum](https://en.wikipedia.org/wiki/Fryderyk_Chopin_Museum). 
+
+I spend a lot of my time in Rochester at the [Eastman School of Music](https://www.esm.rochester.edu/), which is part of the University and a highly prestigious music school. It is by far my favorite place in town.
+
+
+<p class="icon-link"><i class="fa-brands fa-spotify"></i><a href="https://open.spotify.com/user/mzerg?si=2fb3266f121d4e9c" target="_blank" rel="noopener">I have several playlists of random genres I like on Spotify</a></p>
 
 </div>
 
