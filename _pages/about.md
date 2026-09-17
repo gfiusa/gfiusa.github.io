@@ -7,9 +7,9 @@ subtitle: "<a href='https://scholar.google.com/citations?user=ROd8gfwAAAAJ' targ
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false
   more_info: >
-    <p style="font-size: 0.8em; text-align: center; margin-top: 0.3em;"><em>With the [man](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) who started it all</em></p>
+    <p style="font-size: 0.8em; text-align: center; margin-top: 0.3em;"><em>With the <a href="https://en.wikipedia.org/wiki/Ludwig_Boltzmann" target="_blank">man</a> who started <a href="https://en.wikipedia.org/wiki/Statistical_mechanics" target="_blank">it all</a></em></p>
 selected_papers: false
 social: false
 
