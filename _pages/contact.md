@@ -13,7 +13,7 @@ nav_order: 2
   .social-row a { margin-right: 0.9rem; }
 </style>
 
-The best way to reach me is by handwritten letters and postcards. I promise to reply as soon as I can. My address is:
+The best way to reach me is by handwritten letters, like the [aztecs](https://en.wikipedia.org/wiki/Aztecs) and [mayas](https://en.wikipedia.org/wiki/Maya_civilization) used to do. I promise to reply as soon as I can. My address is:
 
 <p style="margin-left: 1.5rem;">
   206 Bausch &amp; Lomb Hall<br>
