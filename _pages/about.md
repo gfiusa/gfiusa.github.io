@@ -31,6 +31,9 @@ latest_posts:
     .profile { margin-top: 0.35rem; }
   }
 
+  /* Tighten the gap between the photo and its caption */
+  .profile figure { margin-bottom: 0; }
+
   /* Center the caption under the photo and match the site font */
   .profile .more-info { text-align: center; font-family: inherit; }
 </style>
@@ -43,6 +46,6 @@ Previously, I did my master's and my bachelor's at the [University of São Paulo
 
 I am curious about the fundamental limits of thermodynamics at small scales, when quantum effects change the rules, and what we can learn about the thermodynamics of a system when we can only observe part of it.
 
-Check out my [research](/research/), and feel free to [get in touch](/contact/). For random personal things, see [here](/personal/).
+Check out my [research](/research/), and feel free to [get in touch](/contact/). 
 
 </div>
