@@ -65,6 +65,8 @@ Like most Brazilians, I grew up with [football](https://en.wikipedia.org/wiki/As
 
 I believe in [Joga Bonito](https://en.wikipedia.org/wiki/The_beautiful_game) and that Brazilian football will eventually recover the level it once had. I support [Fernando Diniz](https://en.wikipedia.org/wiki/Fernando_Diniz)'s ideas about team strategy and positioning, and I am unsure about [Carlo Ancelotti](https://en.wikipedia.org/wiki/Carlo_Ancelotti) as the head coach of the [amarelinha](https://en.wikipedia.org/wiki/Brazil_national_football_team).
 
+I am left-handed (and left-footed) and play as a centerback defender.
+
 </div>
 
 <p style="text-align: center; font-size: 0.85em; opacity: 0.7; margin-top: 3rem;">
