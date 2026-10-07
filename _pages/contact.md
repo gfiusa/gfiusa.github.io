@@ -28,12 +28,3 @@ You can also send me an email:
   <i class="fa-regular fa-envelope fa-fw"></i><a href="mailto:gcafiusa@gmail.com">gcafiusa@gmail.com</a> (personal)<br>
   <i class="fa-regular fa-envelope fa-fw"></i><a href="mailto:gfiusa@ur.rochester.edu">gfiusa@ur.rochester.edu</a> (institutional)
 </p>
-
-<!-- 
- <p>Overall, I dislike social media, but aren't we all guilty of the things we dislike?</p>
-
-<p class="social-row" style="margin-left: 1.5rem;">
-  <a href="https://www.instagram.com/cristiano/" target="_blank" rel="noopener" title="Instagram"><i class="fa-brands fa-instagram fa-fw social-icon"></i></a>
-  <a href="https://open.spotify.com/user/mzerg?si=2fb3266f121d4e9c" target="_blank" rel="noopener" title="Spotify"><i class="fa-brands fa-spotify fa-fw social-icon"></i></a>
-  <a href="https://x.com/Pontifex" target="_blank" rel="noopener" title="X"><i class="fa-brands fa-x-twitter fa-fw social-icon"></i></a>
-</p> -->
