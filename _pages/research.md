@@ -63,7 +63,7 @@ Below is a list of my publications, preprints, and theses. You can also find my 
    **G. Fiusa**, P. E. Harunari, A. J. B. Rosal, J. M. Nichol, and G. T. Landi<br>
    *arXiv:2605.20166* (2026)
 
-2. [Mutual linearity in zero-deficiency chemical reaction networks](https://arxiv.org/abs/2610.11970)<br>
+2. [Mutual Linearity of Complexes in Chemical Reaction Networks](https://arxiv.org/abs/2610.11970)<br>
    P. E. Harunari, **G. Fiusa**, and M. Polettini<br>
    *In preparation* (2026)
 
