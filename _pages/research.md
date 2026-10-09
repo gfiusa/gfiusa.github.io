@@ -65,7 +65,7 @@ Below is a list of my publications, preprints, and theses. You can also find my 
 
 2. [Mutual Linearity of Complexes in Chemical Reaction Networks](https://arxiv.org/abs/2610.11970)<br>
    P. E. Harunari, **G. Fiusa**, and M. Polettini<br>
-   *In preparation* (2026)
+   *arXiv:2610.11970* (2026)
 
 3. Thermodynamic inference from excursions into hidden states: theory and quantum-dot experiment<br>
    **G. Fiusa**, J. van der Meer, T. V. Vu, V. Wadhia, N. Ares, G. T. Landi, and P. E. Harunari<br>
