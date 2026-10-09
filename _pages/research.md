@@ -63,13 +63,19 @@ Below is a list of my publications, preprints, and theses. You can also find my 
    **G. Fiusa**, P. E. Harunari, A. J. B. Rosal, J. M. Nichol, and G. T. Landi<br>
    *arXiv:2605.20166* (2026)
 
-2. Thermodynamic inference from excursions into hidden states: theory and quantum-dot experiment<br>
-   **G. Fiusa**, J. van der Meer, T. V. Vu, V. Wadhia, G. T. Landi, and P. E. Harunari<br>
-   *In preparation* (2026)
-
-3. Mutual linearity in zero-deficiency chemical reaction networks<br>
+2. [Mutual linearity in zero-deficiency chemical reaction networks](https://arxiv.org/abs/2610.11970)<br>
    P. E. Harunari, **G. Fiusa**, and M. Polettini<br>
    *In preparation* (2026)
+
+3. Thermodynamic inference from excursions into hidden states: theory and quantum-dot experiment<br>
+   **G. Fiusa**, J. van der Meer, T. V. Vu, V. Wadhia, N. Ares, G. T. Landi, and P. E. Harunari<br>
+   *In preparation* (2026)
+
+4. Coherent effects in quantum waiting time distributions and entropy production estimators<br>
+   **G. Fiusa**, G. T. Landi, and U. Seifert<br>
+   *In preparation* (2026)
+
+
 
 </div>
 
